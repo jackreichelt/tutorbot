@@ -8,6 +8,9 @@ Hi there! Looks like you're trying to write a Slack bot. Want some help?
 You can find an example echobot here: https://github.com/jackreichelt/slackbot-tutorial
 You can also find some notes on how to write a Slack bot in that same repository.
 
+You can also find an example of adding slash commands and notes here: https://github.com/rowena-s/easy-peasy-slash-command-app
+There's also notes on that as well.
+
 Finally, you can find my source code here: https://github.com/jackreichelt/tutorbot
 """
 
