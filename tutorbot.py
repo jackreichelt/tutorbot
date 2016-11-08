@@ -12,6 +12,8 @@ You can also find an example of adding slash commands and notes here: https://gi
 There's also notes on that as well.
 
 Finally, you can find my source code here: https://github.com/jackreichelt/tutorbot
+
+🍕🍕🍕🍕🍕
 """
 
 token = os.environ.get('TOKEN', None) # found at https://api.slack.com/web#authentication
